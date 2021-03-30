@@ -1,5 +1,4 @@
 # MarketSpotter
-Nano Terminal Challenge
 
 This is a Terminal MarketList creator experience, if you want to create MarketLists you should try using our code. 
 We've also implementated a file exportation to your Desktop, a .txt will be created if you want. 
